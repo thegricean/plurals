@@ -1,0 +1,6 @@
+# created by jdegen on 10/22/2014
+
+Counts were obtained running the following CQP query on the BNC:
+[pos="AT0"][pos="NN2"][word="are"][pos="(AJ0|AJC)"]
+
+For the BNC tagset, see http://www.natcorp.ox.ac.uk/docs/c5spec.html
